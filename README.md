@@ -1,4 +1,4 @@
-# Web Scraping On Job Searching Website: Indeed (2022 JUL)
+# Indeed Web Scraper (2022 JUL)
 
 ## Project Goals:
 
